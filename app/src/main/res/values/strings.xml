@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppParkings2019</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_municipios">DetailMunicipios</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="salir">salir</string>
+    <string name="texto_avatar">Usuario</string>
+    <string name="nick">nick</string>
+    <string name="pass">pass</string>
+</resources>
